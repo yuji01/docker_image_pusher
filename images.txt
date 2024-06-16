@@ -5,5 +5,5 @@ nginx
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-
+# 我的镜像
 yujibuzailai/cfstddns:2024-06-16
